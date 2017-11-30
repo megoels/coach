@@ -1,5 +1,5 @@
 # Coach
-4
+6
 ##  Overview
 
 Coach is a python reinforcement learning research framework containing implementation of many state-of-the-art algorithms.
